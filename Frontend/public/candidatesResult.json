@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Candidate 1",
+      "symbol": "Kite",
+      "votes": 150
+    },
+    {
+      "name": "Candidate 2",
+      "symbol": "Arrow",
+      "votes": 120
+    },
+    {
+      "name": "Candidate 3",
+      "symbol": "Cycle",
+      "votes": 90
+    },
+    {
+      "name": "Candidate 4",
+      "symbol": "Tiger",
+      "votes": 80
+    },
+    {
+      "name": "Candidate 5",
+      "symbol": "Book",
+      "votes": 200
+    }
+  ]
+  
